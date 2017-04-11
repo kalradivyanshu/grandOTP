@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "574902570073",
+    "firebase_url": "https://wake-uo.firebaseio.com",
+    "project_id": "wake-uo",
+    "storage_bucket": "wake-uo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574902570073:android:ad6b18dfc56be3ef",
+        "android_client_info": {
+          "package_name": "kalra.divyanshu.wakeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574902570073-3toje9lo7em1cqjiuhqbq00tdnffbjs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQswqpE07Tn2vihhV9sUQllGSWsIF6gvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574902570073:android:08d7019afe0e5710",
+        "android_client_info": {
+          "package_name": "kalra.divyanshu.grandotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574902570073-3toje9lo7em1cqjiuhqbq00tdnffbjs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQswqpE07Tn2vihhV9sUQllGSWsIF6gvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
